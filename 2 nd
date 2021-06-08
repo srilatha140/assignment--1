@@ -1,13 +1,14 @@
-<!doctype>
+<!DOCTYPE>
 <html>
-<head> 
-<title>  meta tags</title>
-<meta charset="UTF -8"/>
-<meta name= "author" content= "mad block"/>
-<meta name="description" content="web devlp camp"/>
-<meta name="key words" content="microsoft certification,html,mad blocks academy"/>
+<head>
+<style>
+	p{
+	color: red;
+	}
+</style>
 </head>
-<body> 
-HTML meta tags
+<body>
+	<img src="copyrights.png">
+	<p>srilatha</p>
 </body>
 </html>

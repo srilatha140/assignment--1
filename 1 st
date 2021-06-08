@@ -1,10 +1,20 @@
-<!Doctype> 
+<!--change the back ground color to pink and color of the text to green-->
+<!DOCTYPE>
 <html>
-<head> 
-<title>refresh </title>
-<meta http-equip="refresh" content=5/>
-</head>
+<head>
+<style>
+body{
+	background-color:pink;
+	color:green;
+
+}
+</style>
 <body>
- sri latha
-</body> 
+<h1>Lakshmi</h1>
+<h2>Anusha</h2>
+<h3>Sai</h3>
+<h4>Sweety</h4>
+<h5>chandu</h5>
+<h6>Harika</h6>
+</body>
 </html>

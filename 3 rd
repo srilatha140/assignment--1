@@ -1,9 +1,4 @@
-<!doctype>
-<html>
-<head> 
-<title> external scripting</title>
-</head>
-<body> 
-<script src="alertexternal.js"> </script>
-</body>
-</html>
+body
+{
+	background-image: url(https://i.pinimg.com/originals/ef/ac/77/efac77ffc5d117f28ec59d96f3632c7d.jpg);
+}

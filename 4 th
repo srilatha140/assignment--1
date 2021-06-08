@@ -1,12 +1,10 @@
-<!--External style sheet-->
-<!DOCTYPE html>
+<!DOCTYPE>
 <html>
 <head>
-   <title>External CSS</title>
-   <link rel="stylesheet"type="text/css"href="style.css">
+<script src="color.js"></script>
 </head>
 <body>
-    <h1> sri latha</h1>
-    <p>19JR1A0533</p>
+	<p id="abcd">sri latha</p>
+	<button type="button" onclick="changecolor()"></button>
 </body>
 </html>
