@@ -1,0 +1,9 @@
+<!doctype>
+<html>
+<head> 
+<title> external scripting</title>
+</head>
+<body> 
+<script src="alertexternal.js"> </script>
+</body>
+</html>
