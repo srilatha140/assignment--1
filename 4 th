@@ -1,0 +1,12 @@
+<!--External style sheet-->
+<!DOCTYPE html>
+<html>
+<head>
+   <title>External CSS</title>
+   <link rel="stylesheet"type="text/css"href="style.css">
+</head>
+<body>
+    <h1> sri latha</h1>
+    <p>19JR1A0533</p>
+</body>
+</html>

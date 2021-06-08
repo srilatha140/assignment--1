@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>No script </title>
+</head>
+<body>
+   <script>document.write("sri latha")</script>
+   <noscript>No Name</noscript>
+</body>
+</html>
